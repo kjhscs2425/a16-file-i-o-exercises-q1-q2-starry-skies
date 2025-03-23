@@ -5,9 +5,6 @@ import json
 if os.path.isfile("data.json"):
     # If it does, read "data.json" into the variable `data`
 
-    ####
-    #### YOUR CODE HERE 
-    ####
 
 else:
     # If it doesn't, make an empty dictionary called data
